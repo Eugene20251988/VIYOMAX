@@ -6,4 +6,5 @@
 - [x] Add a view for the back side of the flashcard to display the answer
 - [x] Build in logic to show the answer side when the card is tapped
 - [x] Push code to GitHub
-![EugenoViyo](https://github.com/user-attachments/assets/0246f6aa-bb38-49e3-8bec-fceb43decf6d)
+![EugenoViyo](https://github.com/user-attachments/assets/2d5561cb-a54f-4159-8064-8977e809002d)
+
